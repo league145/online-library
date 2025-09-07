@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Online Library</title>
+  <title>Top Programming Books</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>📚 Welcome to the Online Library</h1>
+  <h1>📚 Top Programming Books Every Developer Should Read</h1>
   <div id="book-list"></div>
   <script src="script.js"></script>
 </body>
