@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#book-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+#book-list div {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+}

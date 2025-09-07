@@ -1,0 +1,19 @@
+# 📚 Online Library
+
+A simple front-end project to showcase a list of books.
+
+## 🚀 Features
+- Static book list rendered with JavaScript
+- Responsive layout using CSS Flexbox
+- Easy to extend with search and filters
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 🌐 Live Demo
+[Visit the site](https://your-username.github.io/online-library/)
+
+## 📸 Screenshots
+_Add screenshots in `assets/images` and embed here later._
